@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - Red
+  - Green
+  - Blue
+  - Red Platform
+  - Green Platform
+  - Blue Platform
   layers:
   - Default
   - TransparentFX
